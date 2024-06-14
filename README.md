@@ -2,18 +2,14 @@
 
 Use AI to write complete stories.
 
-See a [demo](https://twitter.com/mckaywrigley/status/1649879593128714241?s=46&t=AowqkodyK6B4JccSOxSPew).
-
 ## How It Works
-
-## Running Locally
 
 ## Running Locally
 
 **1. Clone Repo**
 
 ```bash
-git clone https://github.com/mckaywrigley/storybook-ai.git
+git clone https://github.com/Vignesh010101/Long-Story-Generation-Using-AI.git
 ```
 
 **2. Install Dependencies**
@@ -38,11 +34,7 @@ npm run dev
 
 **5. Use It**
 
-You should know be able to use Storybook AI!
-
-## Contact
-
-If you have any questions, feel free to reach out to me on [Twitter](https://twitter.com/mckaywrigley).
+You should Now be able to use Storybook AI!
 
 # Example Story
 
